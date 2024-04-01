@@ -1,0 +1,76 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2024-04-01 03:03:35",
+    "containerVersion": {
+        "path": "accounts/6224505874/containers/181549130/versions/1",
+        "accountId": "6224505874",
+        "containerId": "181549130",
+        "containerVersionId": "1",
+        "name": "Empty Container",
+        "container": {
+            "path": "accounts/6224505874/containers/181549130",
+            "accountId": "6224505874",
+            "containerId": "181549130",
+            "name": "tt",
+            "publicId": "GTM-KR4KSHLH",
+            "usageContext": [
+                "WEB"
+            ],
+            "fingerprint": "1711940108360",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6224505874/containers/181549130/workspaces?apiLink=container",
+            "features": {
+                "supportUserPermissions": true,
+                "supportEnvironments": true,
+                "supportWorkspaces": true,
+                "supportGtagConfigs": false,
+                "supportBuiltInVariables": true,
+                "supportClients": false,
+                "supportFolders": true,
+                "supportTags": true,
+                "supportTemplates": true,
+                "supportTriggers": true,
+                "supportVariables": true,
+                "supportVersions": true,
+                "supportZones": true,
+                "supportTransformations": false
+            },
+            "tagIds": [
+                "GTM-KR4KSHLH"
+            ]
+        },
+        "builtInVariable": [
+            {
+                "accountId": "6224505874",
+                "containerId": "181549130",
+                "type": "PAGE_URL",
+                "name": "Page URL"
+            },
+            {
+                "accountId": "6224505874",
+                "containerId": "181549130",
+                "type": "PAGE_HOSTNAME",
+                "name": "Page Hostname"
+            },
+            {
+                "accountId": "6224505874",
+                "containerId": "181549130",
+                "type": "PAGE_PATH",
+                "name": "Page Path"
+            },
+            {
+                "accountId": "6224505874",
+                "containerId": "181549130",
+                "type": "REFERRER",
+                "name": "Referrer"
+            },
+            {
+                "accountId": "6224505874",
+                "containerId": "181549130",
+                "type": "EVENT",
+                "name": "Event"
+            }
+        ],
+        "fingerprint": "1711940108364",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/6224505874/containers/181549130/versions/1?apiLink=version"
+    }
+}
